@@ -96,7 +96,7 @@ const int revSpeed[8] = {PWM_FLT, PWM_REV1, PWM_REV2, PWM_REV3, PWM_REV4, PWM_RE
 // MQTT Configuration
 const char* MQTT_HOST = "192.168.1.250";
 const char* MQTT_USER = "mqtt_client";
-const char* MQTT_PASS = "icarus78";
+const char* MQTT_PASS = "***";
 const char* MQTT_CLIENT_ID = "arduino-yun-lego-train-controller";
 const int MQTT_PORT = 1883;
 
